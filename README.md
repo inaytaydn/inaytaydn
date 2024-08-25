@@ -1,7 +1,7 @@
 # Hello, I'm İnayet! (Student of Udemig) 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/kisisellhesap?label=Takipçiler&style=social)](https://github.com/kisisellhesap)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/ahmetcankaragoz/)
+[![GitHub followers](https://img.shields.io/github/followers/inaytaydn?label=Takipçiler&style=social)](https://github.com/inaytaydn)
+
 
 ## 🚀 About Me
 
@@ -35,21 +35,13 @@ Someone who works hard to make his dreams come true . For a fresh start I decide
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📖 Resources I Use
 
-![W3Schools](https://img.shields.io/badge/W3Schools-4CAF50?style=flat-square&logo=w3schools&logoColor=white)
-![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)
-![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-3F54A3?style=flat-square&logo=frontend-mentor&logoColor=white)
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kisisellhesap&show_icons=true&theme=radical)](https://github.com/kisisellhesap)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inaytaydn&show_icons=true&theme=radical)](https://github.com/inaytaydn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisisellhesap&layout=compact&theme=radical)](https://github.com/kisisellhesap)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inaytaydn&layout=compact&theme=radical)](https://github.com/inaytaydn)
 
-## 💼 My Projects
 
-### [Multi Step Form](https://github.com/kisisellhesap/multi-step-form-main)
-- This project is a challenge from the frontendmentor site. 
-- It has a structure with a form and consists of various steps.
-- React technology was used in the project and its dynamic structure was provided in this way.
+
