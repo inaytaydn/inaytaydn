@@ -4,11 +4,9 @@
 
 
 ## 🚀 About Me
-Hello! I’m a software engineering student with a passion for both frontend and backend development. I’m currently focusing on React and JavaScript, working to enhance my skills in building modern web applications.
+I’m a software engineering student with a passion for both frontend and backend development. I’m currently focusing on React and JavaScript, working to enhance my skills in building modern web applications.
 My goals I am to leverage advanced technologies to create innovative and user-friendly solutions. I am eager to learn from industry best practices and contribute to impactful software projects.
 I would be delighted to connect if you’re interested in discussing projects or exploring collaboration opportunities!
-
-How can you reach me? ➡️ a.inyt12@gmail.com
 
 - 🌱 Currently learning: React, Redux, TypeScript
 - 💬 Ask me about: HTML, CSS, JavaScript
