@@ -8,7 +8,7 @@ I’m a software engineering student with a passion for both frontend and backen
 My goals I am to leverage advanced technologies to create innovative and user-friendly solutions. I am eager to learn from industry best practices and contribute to impactful software projects.
 I would be delighted to connect if you’re interested in discussing projects or exploring collaboration opportunities!
 
-- 🌱 Currently learning: React, Redux, TypeScript
+- 🌱 Currently learning: React, TypeScript,
 - 💬 Ask me about: HTML, CSS, JavaScript
 - 📫 How to reach me: [a.inyt12@gmail.com](mailto:a.inyt12@gmail.com)
 
